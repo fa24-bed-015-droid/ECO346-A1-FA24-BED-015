@@ -1,6 +1,6 @@
 # ECO346 Assignment 1: earnings of urban Balochistan
 
-**Registration no.:** FA24-BEDS-015 (CHECK before submitting)  **Section:** A
+**Registration no.:** FA24-BED-015 (CHECK before submitting)  **Section:** A
 **Variant:** 15 = 1 x 8 + 7, so variant 7: **Balochistan, urban** (`prov_code == 4`, `urban_rural == 2`).
 Sample: persons aged 15-64 with `earn_annual > 0` (486 earners). All statistics weighted by `hhweight`.
 
